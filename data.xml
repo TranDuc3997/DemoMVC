@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Student>
+        <ID>2001150251</ID>
+        <name>Tran Duc</name>
+        <birthday>03/09/1997</birthday>
+        <school>HUFI</school>
+    </Student>
+    <Student>
+        <ID>2001150128</ID>
+        <name>Nguyen Thanh Quang</name>
+        <birthday>02/07/1997</birthday>
+        <school>HUFI</school>
+    </Student>
+    <Student>
+        <ID>2001150225</ID>
+        <name>Nhan Minh Hieu</name>
+        <birthday>31/02/1997</birthday>
+        <school>HUFI</school>
+    </Student>
+</Data>
